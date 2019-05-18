@@ -1,0 +1,366 @@
+<?xml-stylesheet type="text/xsl" href="https://gistdata.itos.uga.edu/sites/default/files/stylesheets/ISO19139.xsl" version="1.0" encoding="UTF-8"?>
+<MD_Metadata xmlns:xalan="http://xml.apache.org/xslt" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml" xmlns="http://www.isotc211.org/2005/gmd">
+   <fileIdentifier>
+      <gco:CharacterString>{06123FE5-5049-4F39-A18E-2593F1A08E3D}</gco:CharacterString>
+   </fileIdentifier>
+   <language>
+      <gco:CharacterString>English</gco:CharacterString>
+   </language>
+   <characterSet>
+      <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeSpace="ISOTC211/19115" codeListValue="utf8">utf8</MD_CharacterSetCode>
+   </characterSet>
+   <hierarchyLevel>
+      <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeSpace="ISOTC211/19115" codeListValue="dataset">dataset</MD_ScopeCode>
+   </hierarchyLevel>
+   <hierarchyLevelName>
+      <gco:CharacterString>dataset</gco:CharacterString>
+   </hierarchyLevelName>
+   <contact>
+      <CI_ResponsibleParty>
+         <individualName>
+            <gco:CharacterString>Staff</gco:CharacterString>
+         </individualName>
+         <organisationName>
+            <gco:CharacterString>Geographic Information Support Team</gco:CharacterString>
+         </organisationName>
+         <positionName>
+            <gco:CharacterString>Data Repository</gco:CharacterString>
+         </positionName>
+         <contactInfo>
+            <CI_Contact>
+               <phone>
+                  <CI_Telephone>
+                     <voice>
+                        <gco:CharacterString>(706) 542-7766</gco:CharacterString>
+                     </voice>
+                     <facsimile>
+                        <gco:CharacterString>(706)542-6535</gco:CharacterString>
+                     </facsimile>
+                  </CI_Telephone>
+               </phone>
+               <address>
+                  <CI_Address>
+                     <deliveryPoint>
+                        <gco:CharacterString>1180 E. Broad Street</gco:CharacterString>
+                     </deliveryPoint>
+                     <city>
+                        <gco:CharacterString>Athens</gco:CharacterString>
+                     </city>
+                     <administrativeArea>
+                        <gco:CharacterString>Georgia</gco:CharacterString>
+                     </administrativeArea>
+                     <postalCode>
+                        <gco:CharacterString>30602</gco:CharacterString>
+                     </postalCode>
+                     <country>
+                        <gco:CharacterString>United States</gco:CharacterString>
+                     </country>
+                     <electronicMailAddress>
+                        <gco:CharacterString>gist-admin@cviog.itos.uga.edu</gco:CharacterString>
+                     </electronicMailAddress>
+                  </CI_Address>
+               </address>
+            </CI_Contact>
+         </contactInfo>
+         <role>
+            <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeSpace="ISOTC211/19115" codeListValue="publisher">publisher</CI_RoleCode>
+         </role>
+      </CI_ResponsibleParty>
+   </contact>
+   <dateStamp>
+      <gco:Date>2011-12-05</gco:Date>
+   </dateStamp>
+   <metadataStandardName>
+      <gco:CharacterString>ISO 19139/19115</gco:CharacterString>
+   </metadataStandardName>
+   <metadataStandardVersion>
+      <gco:CharacterString>2003</gco:CharacterString>
+   </metadataStandardVersion>
+   <spatialRepresentationInfo>
+      <MD_VectorSpatialRepresentation>
+         <topologyLevel>
+            <MD_TopologyLevelCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopologyLevelCode" codeSpace="ISOTC211/19115" codeListValue="geometryOnly">geometryOnly</MD_TopologyLevelCode>
+         </topologyLevel>
+         <geometricObjects>
+            <MD_GeometricObjects>
+               <geometricObjectType>
+                  <MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeSpace="ISOTC211/19115" codeListValue="point">point</MD_GeometricObjectTypeCode>
+               </geometricObjectType>
+               <geometricObjectCount>
+                  <gco:Integer>22770</gco:Integer>
+               </geometricObjectCount>
+            </MD_GeometricObjects>
+         </geometricObjects>
+      </MD_VectorSpatialRepresentation>
+   </spatialRepresentationInfo>
+   <referenceSystemInfo>
+      <MD_ReferenceSystem>
+         <referenceSystemIdentifier>
+            <RS_Identifier>
+               <code>
+                  <gco:CharacterString>GCS_WGS_1984</gco:CharacterString>
+               </code>
+            </RS_Identifier>
+         </referenceSystemIdentifier>
+      </MD_ReferenceSystem>
+   </referenceSystemInfo>
+   <identificationInfo>
+      <MD_DataIdentification>
+         <citation>
+            <CI_Citation>
+               <title>
+                  <gco:CharacterString>Brazil Settlements</gco:CharacterString>
+               </title>
+               <date>
+                  <CI_Date>
+                     <date>
+                        <gco:Date>2010</gco:Date>
+                     </date>
+                     <dateType>
+                        <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeSpace="ISOTC211/19115" codeListValue="creation">creation</CI_DateTypeCode>
+                     </dateType>
+                  </CI_Date>
+               </date>
+               <date>
+                  <CI_Date>
+                     <date>
+                        <gco:Date>2011-12-05</gco:Date>
+                     </date>
+                     <dateType>
+                        <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeSpace="ISOTC211/19115" codeListValue="publication">publication</CI_DateTypeCode>
+                     </dateType>
+                  </CI_Date>
+               </date>
+               <presentationForm>
+                  <CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeSpace="ISOTC211/19115" codeListValue="mapDigital">mapDigital</CI_PresentationFormCode>
+               </presentationForm>
+            </CI_Citation>
+         </citation>
+         <abstract>
+            <gco:CharacterString>Points represent settlements in Brazil.</gco:CharacterString>
+         </abstract>
+         <pointOfContact>
+            <CI_ResponsibleParty>
+               <organisationName>
+                  <gco:CharacterString>Brazilian Institute of Geography and Statistics</gco:CharacterString>
+               </organisationName>
+               <contactInfo>
+                  <CI_Contact>
+                     <address>
+                        <CI_Address>
+                           <country>
+                              <gco:CharacterString>Brazil</gco:CharacterString>
+                           </country>
+                        </CI_Address>
+                     </address>
+                  </CI_Contact>
+               </contactInfo>
+               <role>
+                  <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeSpace="ISOTC211/19115" codeListValue="originator">originator</CI_RoleCode>
+               </role>
+            </CI_ResponsibleParty>
+         </pointOfContact>
+         <pointOfContact>
+            <CI_ResponsibleParty>
+               <individualName>
+                  <gco:CharacterString>Staff</gco:CharacterString>
+               </individualName>
+               <organisationName>
+                  <gco:CharacterString>University of Georgia - ITOS</gco:CharacterString>
+               </organisationName>
+               <positionName>
+                  <gco:CharacterString>GIST Data Repository</gco:CharacterString>
+               </positionName>
+               <contactInfo>
+                  <CI_Contact>
+                     <phone>
+                        <CI_Telephone>
+                           <voice>
+                              <gco:CharacterString>(706)542-7766</gco:CharacterString>
+                           </voice>
+                           <facsimile>
+                              <gco:CharacterString>(706)542-6535</gco:CharacterString>
+                           </facsimile>
+                        </CI_Telephone>
+                     </phone>
+                     <address>
+                        <CI_Address>
+                           <deliveryPoint>
+                              <gco:CharacterString>1180 E. Broad Street</gco:CharacterString>
+                           </deliveryPoint>
+                           <city>
+                              <gco:CharacterString>Athens</gco:CharacterString>
+                           </city>
+                           <administrativeArea>
+                              <gco:CharacterString>Georgia</gco:CharacterString>
+                           </administrativeArea>
+                           <postalCode>
+                              <gco:CharacterString>30602-5418</gco:CharacterString>
+                           </postalCode>
+                           <country>
+                              <gco:CharacterString>United States</gco:CharacterString>
+                           </country>
+                           <electronicMailAddress>
+                              <gco:CharacterString>gist-admin@cviog.itos.uga.edu</gco:CharacterString>
+                           </electronicMailAddress>
+                        </CI_Address>
+                     </address>
+                  </CI_Contact>
+               </contactInfo>
+               <role>
+                  <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeSpace="ISOTC211/19115" codeListValue="principalInvestigator">principalInvestigator</CI_RoleCode>
+               </role>
+            </CI_ResponsibleParty>
+         </pointOfContact>
+         <spatialRepresentationType>
+            <MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeSpace="ISOTC211/19115" codeListValue="vector">vector</MD_SpatialRepresentationTypeCode>
+         </spatialRepresentationType>
+         <spatialResolution/>
+         <language>
+            <gco:CharacterString>Portuguese</gco:CharacterString>
+         </language>
+         <topicCategory>
+            <MD_TopicCategoryCode>society</MD_TopicCategoryCode>
+         </topicCategory>
+         <environmentDescription>
+            <gco:CharacterString>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.3000</gco:CharacterString>
+         </environmentDescription>
+         <extent>
+            <EX_Extent>
+               <geographicElement>
+                  <EX_GeographicBoundingBox>
+                     <westBoundLongitude>
+                        <gco:Decimal>-73.497613</gco:Decimal>
+                     </westBoundLongitude>
+                     <eastBoundLongitude>
+                        <gco:Decimal>-34.807645</gco:Decimal>
+                     </eastBoundLongitude>
+                     <southBoundLatitude>
+                        <gco:Decimal>-33.73754</gco:Decimal>
+                     </southBoundLatitude>
+                     <northBoundLatitude>
+                        <gco:Decimal>5.220071</gco:Decimal>
+                     </northBoundLatitude>
+                  </EX_GeographicBoundingBox>
+               </geographicElement>
+            </EX_Extent>
+         </extent>
+      </MD_DataIdentification>
+   </identificationInfo>
+   <distributionInfo>
+      <MD_Distribution>
+         <distributionFormat>
+            <MD_Format>
+               <name>
+                  <gco:CharacterString>ESRI Shapefile</gco:CharacterString>
+               </name>
+               <version>
+                  <gco:CharacterString>9.x</gco:CharacterString>
+               </version>
+            </MD_Format>
+         </distributionFormat>
+         <distributor>
+            <MD_Distributor>
+               <distributorContact>
+                  <CI_ResponsibleParty>
+                     <individualName>
+                        <gco:CharacterString>Staff</gco:CharacterString>
+                     </individualName>
+                     <organisationName>
+                        <gco:CharacterString>Geographic Information Support Team</gco:CharacterString>
+                     </organisationName>
+                     <positionName>
+                        <gco:CharacterString>Data Repository</gco:CharacterString>
+                     </positionName>
+                     <contactInfo>
+                        <CI_Contact>
+                           <phone>
+                              <CI_Telephone>
+                                 <voice>
+                                    <gco:CharacterString>(706) 542-7766</gco:CharacterString>
+                                 </voice>
+                                 <facsimile>
+                                    <gco:CharacterString>(706)542-6535</gco:CharacterString>
+                                 </facsimile>
+                              </CI_Telephone>
+                           </phone>
+                           <address>
+                              <CI_Address>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>1180 E. Broad Street</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <city>
+                                    <gco:CharacterString>Athens</gco:CharacterString>
+                                 </city>
+                                 <administrativeArea>
+                                    <gco:CharacterString>Georgia</gco:CharacterString>
+                                 </administrativeArea>
+                                 <postalCode>
+                                    <gco:CharacterString>30602</gco:CharacterString>
+                                 </postalCode>
+                                 <country>
+                                    <gco:CharacterString>United States</gco:CharacterString>
+                                 </country>
+                                 <electronicMailAddress>
+                                    <gco:CharacterString>gist-admin@cviog.itos.uga.edu</gco:CharacterString>
+                                 </electronicMailAddress>
+                              </CI_Address>
+                           </address>
+                        </CI_Contact>
+                     </contactInfo>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeSpace="ISOTC211/19115" codeListValue="distributor">distributor</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </distributorContact>
+            </MD_Distributor>
+         </distributor>
+         <transferOptions>
+            <MD_DigitalTransferOptions>
+               <transferSize>
+                  <gco:Real>3825</gco:Real>
+               </transferSize>
+               <onLine>
+                  <CI_OnlineResource>
+                     <linkage>
+                        <URL>https://gistdata.itos.uga.edu/data/americas/countries/brazil/datasets/BR_Localidades_2010.zip</URL>
+                     </linkage>
+                     <protocol>
+                        <gco:CharacterString>Local Area Network</gco:CharacterString>
+                     </protocol>
+                     <description>
+                        <gco:CharacterString>Dataset</gco:CharacterString>
+                     </description>
+                     <function>
+                        <CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeSpace="ISOTC211/19115" codeListValue="download">download</CI_OnLineFunctionCode>
+                     </function>
+                  </CI_OnlineResource>
+               </onLine>
+            </MD_DigitalTransferOptions>
+         </transferOptions>
+      </MD_Distribution>
+   </distributionInfo>
+   <dataQualityInfo>
+      <DQ_DataQuality>
+         <scope>
+            <DQ_Scope>
+               <level>
+                  <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeSpace="ISOTC211/19115" codeListValue="dataset">dataset</MD_ScopeCode>
+               </level>
+            </DQ_Scope>
+         </scope>
+         <lineage>
+            <LI_Lineage>
+               <statement>
+                  <gco:CharacterString>The data was obtained by ITOS/UGA from the following location:
+
+ftp://geoftp.ibge.gov.br/organizacao_territorial/localidades/Shapefile_SHP/
+
+
+The Register of Selected Brazilian Locations is available, in 11/18/2011, on the Brazilian Institute of Geography and Statistics (in Portuguese IBGE) website. It provides names, political-administrative subordination (i.e. region, state, meso- or micro-region to which the location belongs), coordinates (latitudes and longitudes) and average heights of the centers of 21,304 locations such as municipalities, villages, rural settlements and indigenous villages, among others existing in 2010. All information can be accessed by name of location at ftp://geoftp.ibge.gov.br/Organizacao/Localidades/. The Register of Selected Brazilian Locations responds to a growing demand from society for geo-referenced information. It will be frequently updated and improved. The database also provides precise coordinates (latitude and longitude) of all the 516 indigenous villages (i.e. houses or set of houses or huts which can hold at least 20 indigenous people) catalogued by FUNAI (in Portuguese Indigenous Protection Service) and of the 921 rural settlements (or agri-villages) existing in 2008, according to INCRA (in Portuguese National Institute for Colonization and Agrarian Reform). The database also includes information about 4,718 villages (or district centers, which are subdivisions of the municipalities), 7,086 small towns, 210 rural nuclei, 355 hamlets and 1,933 isolated urban areas.</gco:CharacterString>
+               </statement>
+            </LI_Lineage>
+         </lineage>
+      </DQ_DataQuality>
+   </dataQualityInfo>
+</MD_Metadata>
